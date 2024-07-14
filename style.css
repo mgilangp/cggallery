@@ -28,7 +28,7 @@ body {
 }
 
 .sticky-top {
-  background-color: #eee;
+  background-color: #eeeeee;
   color: var(--gold);
   min-width: 100vw;
 }
