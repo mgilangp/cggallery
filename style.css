@@ -27,6 +27,12 @@ body {
   color: var(--gold);
 }
 
+.sticky-top {
+  background-color: #eee;
+  color: var(--gold);
+  min-width: 100vw;
+}
+
 /* Section Hero ------------------------------------------------ */
 
 .hero::before {
