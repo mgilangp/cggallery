@@ -126,4 +126,8 @@ footer {
     font-size: 100%;
     min-height: 100vh;
   }
+
+  .gallery .gambar {
+    max-width: 95vw;
+  }
 }
